@@ -1,0 +1,14 @@
+STRINGTABLE C4DMX
+{
+		C4DMX      "DMX Controller for Cinema 4D";
+		C4DMX_BASE_ADDRESS "Surface Base Address";
+		C4DMX_UNIVERSE "DMX Universe";
+		C4DMX_ISMASTER "Is Master";
+		C4DMX_USETARGET "Use Target";
+		C4DMX_EXPORT "Enable Export";
+		C4DMX_EXPORTLOW "Export Range Low";
+		C4DMX_EXPORTHIGH "Export Range High";
+		C4DMX_EXPORTPATH "Export Path";
+		C4DMX_EXPORTBPM "BPM";
+
+}
